@@ -1,7 +1,7 @@
 {
   "h1": "Ein einfaches Beispiel",
   "change-locale": "Wechseln Locale",
-  "to-second-page": "Zur zweiten Seite",
-  "error-with-status": "Auf dem Server ist ein Fehler ({{statusCode}}) aufgetreten",
+  "to-second-page": "Naar de volgende pagina",
+  "error-with-status": "Foutmelding met de status: ({{statusCode}})",
   "error-without-status": "Auf dem Server ist ein Fehler aufgetreten"
 }
